@@ -11,6 +11,14 @@
     ],
 
     "machine_list": [
+        {
+            "name": "fdm_machine_common",
+			"sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "fdm_felix_food_common",
+			"sub_path": "machine/fdm_felix_food_common.json"
+        },
 		{
 			"name": "FELIX Food Single 2.0mm",
 			"sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
