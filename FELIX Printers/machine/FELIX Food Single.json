@@ -1,0 +1,12 @@
+{
+	"type": "machine_model",
+	"name": "FELIX Food Single",
+	"model_id": "felix_food_series",
+	"nozzle_diameter": "2.0",
+	"machine_tech": "FFF",
+	"family": "FELIX Food",
+	"bed_model": "FELIX_Food_Series_Buildplate.STL",
+	"bed_texture": "",
+	"hotend_model": "",
+	"default_materials": ""
+}

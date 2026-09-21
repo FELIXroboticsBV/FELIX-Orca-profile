@@ -1,0 +1,27 @@
+{
+	"name": "FELIX Printers",
+	"version": "1.0.0",
+	"force_update": "0",
+	"description": "Configuration file for printers by FELIX Printers",
+	"machine_model_list": [
+		{
+			"name": "FELIX Food Single",
+			"sub_path": "machine/FELIX Food Single.json"
+		}
+    ],
+
+    "machine_list": [
+		{
+			"name": "FELIX Food Single 2.0mm",
+			"sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+		}
+    ],
+
+    "process_list": [
+		{
+			"name": "fdm_process_common",
+			"sub_path": "process/fdm_process_common.json"
+		}
+    ]
+
+}

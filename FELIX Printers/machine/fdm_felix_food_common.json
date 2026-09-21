@@ -1,0 +1,13 @@
+{
+  "type": "machine",
+  "name": "fdm_felix_food_common",
+  "inherits": "fdm_repetier_common",
+  "from": "system",
+  "instantiation": "false",
+  "machine_max_feedrate_x": ["150"],
+  "machine_max_feedrate_y": ["150"],
+  "machine_max_feedrate_z": ["10"],
+  "machine_max_feedrate_e": ["20"],
+  "machine_start_gcode": "; FELIX Food Single - Orca start gcode\n{if bed_temperature_initial_layer[0]>0}M190 S{bed_temperature_initial_layer[0]}{endif}\n{if nozzle_temperature_initial_layer[0]>0}M104 S{nozzle_temperature_initial_layer[0]}{endif}\nG28\nG90\nM82\nM107\n; Prime routine\nG1 X10 Y10 Z10 F6000\nM400\nG92 E0\nG1 E{2*retraction_length[0] + retract_restart_extra[0] + 0.5} F15\nG92 E0\nG1 X{20+nozzle_diameter[0]*2} Y10 Z{2*(1/4*nozzle_diameter[0])} F{initial_layer_travel_speed*60}\nG1 X{40+nozzle_diameter[0]*2} Y10 E{nozzle_diameter[0]*initial_layer_print_height*20/((filament_diameter[0]/2)*(filament_diameter[0]/2)*3.14159265358979)} F{initial_layer_speed*60}\nG92 E0",
+  "machine_end_gcode": "G92 E0\nG1 E-{retraction_length[0]} F{machine_max_feedrate_e[0]*60}\nG92 E0\nG91\nG1 Z10 F1200\nG90\nG28 X\nG28 Y\nM107\nM84"
+}
