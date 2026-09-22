@@ -1,6 +1,6 @@
 {
 	"type": "machine",
-	"name": "fdm_machine_common",
+	"name": "fdm_all_machines_common",
 	"from": "system",
 	"instantiation": "false",
 	"gcode_flavor": "marlin",

@@ -23,16 +23,16 @@
     ],
     "machine_list": [
         {
+            "name": "fdm_all_machines_common",
+            "sub_path": "machine/fdm_all_machines_common.json"
+        },
+        {
             "name": "fdm_felix_food_common",
             "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
-            "name": "fdm_felix_food_common",
+            "name": "fdm_felix_plastic_common",
             "sub_path": "machine/fdm_felix_plastic_common.json"
-        },
-        {
-            "name": "fdm_machine_common",
-            "sub_path": "machine/fdm_machine_common.json"
         },
         {
             "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
@@ -45,6 +45,10 @@
         {
             "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
             "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
+        },
+        {
+            "name": "FELIX Pro3 1.75mm nozzles",
+            "sub_path": "machine/FELIX Pro3 1.75mm nozzles.json"
         }
     ],
     "process_list": [
