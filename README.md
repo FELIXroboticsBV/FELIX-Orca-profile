@@ -12,14 +12,35 @@ Clone this repo inside the orca's `/resrouces` folder.
 git clone https://github.com/FELIXroboticsBV/FELIX-Orca-profile.git
 ```
 
-got to the repository
+go to the repository
 
 ```sh
 cd FELIX-Orca-profile
 ```
 
+### Configure `system` folder path.
+
+1. Open orca slicer and select [-]->Help->Show Configuration Folder.
+2. Copy the path to the configuration folder.
+3. Open the python script
+
+```sh
+# or use GUI
+nano apply.py`
+```
+
+4. Fill in the script's `ORCA_SYSTEM_CACHE_PATH` variable
+
+> **Add `/system` ad the very end of the path**
+
+```python
+ORCA_SYSTEM_CACHE_PATH = "/path/to/config/OrcaSlicer/system"
+```
+
 Run the script to apply your chagnes
 
 ```sh
-python apply.py /path/to/resources/profiles
+# path: FELIX-Orca-profiles (main)
+
+python apply.py ../profiles
 ```
