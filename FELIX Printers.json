@@ -7,6 +7,10 @@
 		{
 			"name": "FELIX Food Single",
 			"sub_path": "machine/FELIX Food Single.json"
+		},
+		{
+			"name": "FELIX Food Switch",
+			"sub_path": "machine/FELIX Food Switch.json"
 		}
     ],
 
@@ -22,7 +26,12 @@
 		{
 			"name": "FELIX Food Single 2.0mm",
 			"sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+		},
+		{
+			"name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
+			"sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
 		}
+		
     ],
 
     "process_list": [

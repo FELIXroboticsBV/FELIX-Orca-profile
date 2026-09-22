@@ -14,6 +14,7 @@ from pathlib import Path
 
 VENDOR_FOLDER = "FELIX Printers"
 VENDOR_MANIFEST = "FELIX Printers.json"
+ORCA_SYSTEM_CACHE_PATH = "/home/simon/.config/OrcaSlicer/system"
 
 
 def main():
@@ -25,6 +26,13 @@ def main():
     if not target_dir.is_dir():
         print(f"Target folder does not exist: {target_dir}")
         sys.exit(1)
+
+    orca_syste_cache = Path(ORCA_SYSTEM_CACHE_PATH)
+    if orca_syste_cache.is_dir():
+        print("Removing orca system cache")
+        shutil.rmtree(orca_syste_cache)
+    else:
+        print("Systems folder already deleted")
 
     source_dir = Path(__file__).parent
 
@@ -44,7 +52,7 @@ def main():
     shutil.copy2(src_manifest, dst_manifest)
     print(f"Copied '{VENDOR_MANIFEST}' -> {dst_manifest}")
 
-    print("Done. Delete the OrcaSlicer 'system' cache folder and restart to see changes.")
+    print(" ☑ Done.")
 
 
 if __name__ == "__main__":
