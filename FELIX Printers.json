@@ -1,52 +1,56 @@
 {
-	"name": "FELIX Printers",
-	"version": "1.0.0",
-	"force_update": "0",
-	"description": "Configuration file for printers by FELIX Printers",
-	"machine_model_list": [
-		{
-			"name": "FELIX Food Single",
-			"sub_path": "machine/FELIX Food Single.json"
-		},
-		{
-			"name": "FELIX Food Switch",
-			"sub_path": "machine/FELIX Food Switch.json"
-		},
-		{
-			"name": "FELIX Food Double",
-			"sub_path": "machine/FELIX Food Double.json"
-		}
+    "name": "FELIX Printers",
+    "version": "1.0.0",
+    "force_update": "0",
+    "description": "Configuration file for printers by FELIX Printers",
+    "machine_model_list": [
+        {
+            "name": "FELIX Food Double",
+            "sub_path": "machine/FELIX Food Double.json"
+        },
+        {
+            "name": "FELIX Food Single",
+            "sub_path": "machine/FELIX Food Single.json"
+        },
+        {
+            "name": "FELIX Food Switch",
+            "sub_path": "machine/FELIX Food Switch.json"
+        },
+        {
+            "name": "FELIX Pro3",
+            "sub_path": "machine/FELIX Pro3.json"
+        }
     ],
-
     "machine_list": [
         {
-            "name": "fdm_machine_common",
-			"sub_path": "machine/fdm_machine_common.json"
+            "name": "fdm_felix_food_common",
+            "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
             "name": "fdm_felix_food_common",
-			"sub_path": "machine/fdm_felix_food_common.json"
+            "sub_path": "machine/fdm_felix_plastic_common.json"
         },
-		{
-			"name": "FELIX Food Single 2.0mm",
-			"sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
-		},
-		{
-			"name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
-			"sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
-		},
-		{
-			"name": "FELIX Food Double 2.0mm 2.0mm nozzles",
-			"sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
-		}
-		
+        {
+            "name": "fdm_machine_common",
+            "sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
+            "sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Single 2.0mm nozzle",
+            "sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
+            "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
+        }
     ],
-
     "process_list": [
-		{
-			"name": "fdm_process_common",
-			"sub_path": "process/fdm_process_common.json"
-		}
+        {
+            "name": "fdm_process_common",
+            "sub_path": "process/fdm_process_common.json"
+        }
     ]
-
 }

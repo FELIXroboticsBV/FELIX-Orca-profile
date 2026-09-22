@@ -47,3 +47,7 @@ Run the script to apply your chagnes
 
 python apply.py ../profiles
 ```
+
+The script will automatically generated FELIX Printers.json based on the files located in `\fillament`, `\machine` and `\process` directories. This saves you from typing everything by hand
+
+This will copy all the files form the repo required for the orca and wipes the orcas` system cache causing your changes to apply.
