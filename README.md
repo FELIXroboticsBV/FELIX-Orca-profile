@@ -20,7 +20,10 @@ cd FELIX-Orca-profile
 
 ### Configure `system` folder path.
 
-1. Open orca slicer and select [-]->Help->Show Configuration Folder.
+1. Open orca slicer and select Help->Show Configuration Folder.
+
+<img alt="where-to-find" src="./assets/image.png" width=400>
+
 2. Copy the path to the configuration folder.
 3. Open the python script
 
