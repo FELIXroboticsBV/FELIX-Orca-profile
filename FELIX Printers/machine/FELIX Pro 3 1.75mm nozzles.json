@@ -10,19 +10,9 @@
   "printer_variant": "1.75",
   "gcode_flavor": "repetier",
   "single_extruder_multi_material": "0",
-  "extruder_type": [
-    "Direct Drive",
-    "Direct Drive"
-  ],
-  "nozzle_diameter": [
-    "1.72", "1.75"
-  ],
-  "printable_area": [
-    "0x0",
-    "235x0",
-    "235x244",
-    "0x244"
-  ],
+  "extruder_type": ["Direct Drive", "Direct Drive"],
+  "nozzle_diameter": ["1.72", "1.75"],
+  "printable_area": ["0x0", "235x0", "235x244", "0x244"],
   "printable_height": "235",
   "z_offset": "0"
 }

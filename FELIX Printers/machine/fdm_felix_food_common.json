@@ -8,5 +8,5 @@
   "machine_max_feedrate_y": ["150"],
   "machine_max_feedrate_z": ["10"],
   "machine_max_feedrate_e": ["20"],
-  "shape":"rectangular"
+  "shape": "rectangular"
 }
