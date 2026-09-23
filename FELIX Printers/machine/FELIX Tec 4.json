@@ -1,12 +1,12 @@
 {
   "type": "machine_model",
-  "name": "FELIX Pro 3",
-  "model_id": "felix_pro_series",
+  "name": "FELIX Tec 4",
+  "model_id": "felix_tec_series",
   "nozzle_diameter": "1.75; 1.75;",
   "machine_tech": "FFF",
   "family": "FELIX Printers",
-  "bed_model": "FELIX_Pro_Series_Buildplate.stl",
-  "bed_texture": "FELIX Pro Series build plate texture.svg",
+  "bed_model": "FELIX_Tec_Series_Buildplate.stl",
+  "bed_texture": "FELIX Tex 4 Series build plate.svg",
   "hotend_model": "",
   "default_materials": ""
 }

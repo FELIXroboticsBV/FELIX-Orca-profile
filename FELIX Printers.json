@@ -27,6 +27,10 @@
         {
             "name": "FELIX Pro XL 3.0",
             "sub_path": "machine/FELIX Pro XL 3.0.json"
+        },
+        {
+            "name": "FELIX Tec 4",
+            "sub_path": "machine/FELIX Tec 4.json"
         }
     ],
     "machine_list": [
@@ -65,6 +69,10 @@
         {
             "name": "FELIX Pro XL 3.0 1.75mm nozzles",
             "sub_path": "machine/FELIX Pro XL 3.0 1.75mm nozzles.json"
+        },
+        {
+            "name": "FELIX Tec 4 1.75mm nozzles",
+            "sub_path": "machine/FELIX Tec 4 1.75mm nozzles.json"
         }
     ],
     "process_list": [
