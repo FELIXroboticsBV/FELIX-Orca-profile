@@ -1,6 +1,6 @@
 {
 	"type": "machine_model",
-	"name": "FELIX Pro3",
+	"name": "FELIX Pro 3",
 	"model_id": "felix_pro_series",
 	"nozzle_diameter": "1.75; 1.75;",
 	"machine_tech": "FFF",

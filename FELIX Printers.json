@@ -17,8 +17,12 @@
             "sub_path": "machine/FELIX Food Switch.json"
         },
         {
-            "name": "FELIX Pro3",
-            "sub_path": "machine/FELIX Pro3.json"
+            "name": "FELIX Pro 3",
+            "sub_path": "machine/FELIX Pro 3.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0",
+            "sub_path": "machine/FELIX Pro L 3.0.json"
         }
     ],
     "machine_list": [
@@ -47,8 +51,12 @@
             "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
         },
         {
-            "name": "FELIX Pro3 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro3 1.75mm nozzles.json"
+            "name": "FELIX Pro 3 1.75mm nozzles",
+            "sub_path": "machine/FELIX Pro 3 1.75mm nozzles.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 1.75mm nozzles",
+            "sub_path": "machine/FELIX Pro L 3.0 1.75mm nozzles.json"
         }
     ],
     "process_list": [
