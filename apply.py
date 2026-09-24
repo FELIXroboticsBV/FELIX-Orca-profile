@@ -28,6 +28,7 @@ ORCA_SYSTEM_CACHE_PATH = "/home/simon/.config/OrcaSlicer/system"
 # folder name -> "type" value used inside the profile jsons in that folder
 MACHINE_SUBFOLDER = "machine"
 PROCESS_SUBFOLDER = "process"
+FILAMENT_SUBFOLDER = "filament"
 
 
 def scan_type_list(directory: Path, wanted_type: str):
@@ -75,20 +76,26 @@ def regenerate_manifest(src_folder: Path, src_manifest: Path):
 
     machine_dir = src_folder / MACHINE_SUBFOLDER
     process_dir = src_folder / PROCESS_SUBFOLDER
+    filament_dir = src_folder / FILAMENT_SUBFOLDER
 
     machine_model_list = scan_type_list(machine_dir, "machine_model")
     machine_list = scan_type_list(machine_dir, "machine")
     process_list = scan_type_list(process_dir, "process")
+    filament_list = scan_type_list(filament_dir, "filament")
+
 
     manifest["machine_model_list"] = machine_model_list
     manifest["machine_list"] = machine_list
     manifest["process_list"] = process_list
+    manifest["filament_list"] = filament_list
 
     src_manifest.write_text(json.dumps(manifest, indent=4) + "\n", encoding="utf-8")
 
     print(f"  machine_model_list: {len(machine_model_list)} entries")
     print(f"  machine_list:       {len(machine_list)} entries")
     print(f"  process_list:       {len(process_list)} entries")
+    print(f"  filament_list:       {len(filament_list)} entries")
+
 
 
 def main():
