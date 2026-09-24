@@ -1,6 +1,6 @@
 {
   "type": "filament",
-  "name": "FELIX PETG @FELIX Pro 3.json",
+  "name": "FELIX PETG @FELIX Pro 3",
   "inherits": "fdm_filament_pet",
   "from": "system",
   "setting_id": "b55Rd5kKGP1A3BM2",

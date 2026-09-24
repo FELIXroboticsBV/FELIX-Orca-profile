@@ -1,10 +1,10 @@
 {
   "type": "filament",
-  "name": "FELIX PETG @FELIX Pro 3.json",
+  "name": "FELIX PETG @FELIX Pro XL 3.0",
   "inherits": "fdm_filament_pet",
   "from": "system",
   "setting_id": "b55Rd5kKGP1A3BM2",
-  "filament_id": "FELIX PETG @FELIX Pro 3",
+  "filament_id": "FELIX PETG @FELIX XL 3.0",
   "instantiation": "true",
   "chamber_temperature": ["28"],
   "close_fan_the_first_x_layers": ["1"],

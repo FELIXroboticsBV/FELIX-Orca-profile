@@ -31,7 +31,7 @@ PROCESS_SUBFOLDER = "process"
 FILAMENT_SUBFOLDER = "filament"
 
 
-def scan_type_list(directory: Path, wanted_type: str):
+def scan_type_list(directory: Path, wanted_type: str, sort: bool = True ,parent: String):
     """
     Scan every *.json file directly inside `directory`, load it, and keep
     the ones whose "type" field equals `wanted_type`. Returns a list of
@@ -45,24 +45,39 @@ def scan_type_list(directory: Path, wanted_type: str):
         return entries
 
     for f in sorted(directory.glob("*.json")):
+        
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError) as e:
             print(f"  ! Skipping {f.name}: {e}")
             continue
 
+
         if data.get("type") != wanted_type:
             continue
 
         name = data.get("name", f.stem)
+        try:
+            path = f"{directory.relative_to(directory.name).name}/{f.name}"
+        except(ValueError):
+            path = f"{parent}/{directory.name}/{f.name}"
+        
         entries.append({
             "name": name,
-            "sub_path": f"{directory.name}/{f.name}",
+            "sub_path": path,
         })
+
+    for d in directory.iterdir():
+        if d.is_dir():
+            print(d)
+            print(f"Recursively traversing the directory {d.name}")
+            for item in scan_type_list(d, wanted_type, False):
+                entries.append(item)
 
     # Put "*_common" profiles first (they're usually the base/inherited
     # ones), then sort the rest alphabetically by name.
-    entries.sort(key=lambda e: (0 if "common" in e["name"].lower() else 1, e["name"].lower()))
+    if(sort):
+        entries.sort(key=lambda e: (0 if "common" in e["name"].lower() else 1, e["name"].lower()))
     return entries
 
 
