@@ -6,177 +6,293 @@
     "machine_model_list": [
         {
             "name": "FELIX Food Double",
-            "sub_path": "machine/FELIX Food Double.json"
+            "sub_path": "/machine/FELIX Food Double.json"
         },
         {
             "name": "FELIX Food Single",
-            "sub_path": "machine/FELIX Food Single.json"
+            "sub_path": "/machine/FELIX Food Single.json"
         },
         {
             "name": "FELIX Food Switch",
-            "sub_path": "machine/FELIX Food Switch.json"
+            "sub_path": "/machine/FELIX Food Switch.json"
         },
         {
             "name": "FELIX Pro 3",
-            "sub_path": "machine/FELIX Pro 3.json"
+            "sub_path": "/machine/FELIX Pro 3.json"
         },
         {
             "name": "FELIX Pro L 3.0",
-            "sub_path": "machine/FELIX Pro L 3.0.json"
+            "sub_path": "/machine/FELIX Pro L 3.0.json"
         },
         {
             "name": "FELIX Pro XL 3.0",
-            "sub_path": "machine/FELIX Pro XL 3.0.json"
+            "sub_path": "/machine/FELIX Pro XL 3.0.json"
         },
         {
             "name": "FELIX Tec 4",
-            "sub_path": "machine/FELIX Tec 4.json"
+            "sub_path": "/machine/FELIX Tec 4.json"
         }
     ],
     "machine_list": [
         {
             "name": "fdm_all_machines_common",
-            "sub_path": "machine/fdm_all_machines_common.json"
+            "sub_path": "/machine/fdm_all_machines_common.json"
         },
         {
             "name": "fdm_felix_food_common",
-            "sub_path": "machine/fdm_felix_food_common.json"
+            "sub_path": "/machine/fdm_felix_food_common.json"
         },
         {
             "name": "fdm_felix_plastic_common",
-            "sub_path": "machine/fdm_felix_plastic_common.json"
+            "sub_path": "/machine/fdm_felix_plastic_common.json"
         },
         {
             "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
+            "sub_path": "/machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
         },
         {
             "name": "FELIX Food Single 2.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+            "sub_path": "/machine/FELIX Food Single 2.0mm nozzle.json"
         },
         {
             "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
+            "sub_path": "/machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
         },
         {
             "name": "FELIX Pro 3 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro 3 1.75mm nozzles.json"
+            "sub_path": "/machine/FELIX Pro 3 1.75mm nozzles.json"
         },
         {
             "name": "FELIX Pro L 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro L 3.0 1.75mm nozzles.json"
+            "sub_path": "/machine/FELIX Pro L 3.0 1.75mm nozzles.json"
         },
         {
             "name": "FELIX Pro XL 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro XL 3.0 1.75mm nozzles.json"
+            "sub_path": "/machine/FELIX Pro XL 3.0 1.75mm nozzles.json"
         },
         {
             "name": "FELIX Tec 4 1.75mm nozzles",
-            "sub_path": "machine/FELIX Tec 4 1.75mm nozzles.json"
+            "sub_path": "/machine/FELIX Tec 4 1.75mm nozzles.json"
         }
     ],
     "process_list": [
         {
             "name": "fdm_process_common",
-            "sub_path": "process/fdm_process_common.json"
+            "sub_path": "/process/fdm_process_common.json"
         }
     ],
     "filament_list": [
         {
             "name": "fdm_filament_common",
-            "sub_path": "filament/fdm_filament_common.json"
+            "sub_path": "/filament/fdm_filament_common.json"
         },
         {
             "name": "fdm_filament_abs",
-            "sub_path": "filament/fdm_filament_abs.json"
+            "sub_path": "/filament/fdm_filament_abs.json"
         },
         {
             "name": "fdm_filament_asa",
-            "sub_path": "filament/fdm_filament_asa.json"
+            "sub_path": "/filament/fdm_filament_asa.json"
         },
         {
             "name": "fdm_filament_flex",
-            "sub_path": "filament/fdm_filament_flex.json"
+            "sub_path": "/filament/fdm_filament_flex.json"
+        },
+        {
+            "name": "fdm_filament_food",
+            "sub_path": "/filament/fdm_fillament_food.json"
         },
         {
             "name": "fdm_filament_pa",
-            "sub_path": "filament/fdm_filament_pa.json"
+            "sub_path": "/filament/fdm_filament_pa.json"
         },
         {
             "name": "fdm_filament_pa11cf",
-            "sub_path": "filament/fdm_filament_pa11cf.json"
+            "sub_path": "/filament/fdm_filament_pa11cf.json"
         },
         {
             "name": "fdm_filament_pc",
-            "sub_path": "filament/fdm_filament_pc.json"
+            "sub_path": "/filament/fdm_filament_pc.json"
         },
         {
             "name": "fdm_filament_pccf",
-            "sub_path": "filament/fdm_filament_pccf.json"
+            "sub_path": "/filament/fdm_filament_pccf.json"
         },
         {
             "name": "fdm_filament_pet",
-            "sub_path": "filament/fdm_filament_pet.json"
+            "sub_path": "/filament/fdm_filament_pet.json"
         },
         {
             "name": "fdm_filament_pla",
-            "sub_path": "filament/fdm_filament_pla.json"
+            "sub_path": "/filament/fdm_filament_pla.json"
         },
         {
             "name": "fdm_filament_pva",
-            "sub_path": "filament/fdm_filament_pva.json"
+            "sub_path": "/filament/fdm_filament_pva.json"
         },
         {
             "name": "fdm_filament_pvb",
-            "sub_path": "filament/fdm_filament_pvb.json"
+            "sub_path": "/filament/fdm_filament_pvb.json"
         },
         {
             "name": "fdm_filament_tpu",
-            "sub_path": "filament/fdm_filament_tpu.json"
+            "sub_path": "/filament/fdm_filament_tpu.json"
         },
         {
             "name": "FELIX Flex @FELIX Pro 3",
-            "sub_path": "FELIXPlastic/FELIX Flex @FELIX Pro 3.json"
+            "sub_path": "/FELIXPlastic/FELIX Flex @FELIX Pro 3.json"
         },
         {
             "name": "FELIX Flex @FELIX Pro L 3.0",
-            "sub_path": "FELIXPlastic/FELIX Flex @FELIX Pro L 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX Flex @FELIX Pro L 3.0.json"
         },
         {
             "name": "FELIX Flex @FELIX Pro XL 3.0",
-            "sub_path": "FELIXPlastic/FELIX Flex @FELIX Pro XL 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX Flex @FELIX Pro XL 3.0.json"
         },
         {
             "name": "FELIX Flex @FELIX Tec 4",
-            "sub_path": "FELIXPlastic/FELIX Flex @FELIX Tec 4.json"
+            "sub_path": "/FELIXPlastic/FELIX Flex @FELIX Tec 4.json"
         },
         {
             "name": "FELIX PETG @FELIX Pro 3",
-            "sub_path": "FELIXPlastic/FELIX PETG @FELIX Pro 3.json"
+            "sub_path": "/FELIXPlastic/FELIX PETG @FELIX Pro 3.json"
         },
         {
             "name": "FELIX PETG @FELIX Pro L 3.0",
-            "sub_path": "FELIXPlastic/FELIX PETG @FELIX Pro L 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX PETG @FELIX Pro L 3.0.json"
         },
         {
             "name": "FELIX PETG @FELIX Pro XL 3.0",
-            "sub_path": "FELIXPlastic/FELIX PETG @FELIX Pro XL 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX PETG @FELIX Pro XL 3.0.json"
         },
         {
             "name": "FELIX Premium PLA @FELIX Pro 3",
-            "sub_path": "FELIXPlastic/FELIX Premium PLA @FELIX Pro 3.json"
+            "sub_path": "/FELIXPlastic/FELIX Premium PLA @FELIX Pro 3.json"
         },
         {
             "name": "FELIX Premium PLA @FELIX Pro L 3.0",
-            "sub_path": "FELIXPlastic/FELIX Premium PLA @FELIX Pro L 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX Premium PLA @FELIX Pro L 3.0.json"
         },
         {
             "name": "FELIX Premium PLA @FELIX Pro XL 3.0",
-            "sub_path": "FELIXPlastic/FELIX Premium PLA @FELIX Pro XL 3.0.json"
+            "sub_path": "/FELIXPlastic/FELIX Premium PLA @FELIX Pro XL 3.0.json"
         },
         {
             "name": "FELIX Premium PLA @FELIX Tec 4",
-            "sub_path": "FELIXPlastic/FELIX Premium PLA @FELIX Tec 4.json"
+            "sub_path": "/FELIXPlastic/FELIX Premium PLA @FELIX Tec 4.json"
+        },
+        {
+            "name": "FELIX Wood @FELIX Pro 3",
+            "sub_path": "/FELIXPlastic/FELIX Wood @FELIX Pro 3.json"
+        },
+        {
+            "name": "FELIX Wood @FELIX Pro L 3.0",
+            "sub_path": "/FELIXPlastic/FELIX Wood @FELIX Pro L 3.0.json"
+        },
+        {
+            "name": "FELIX Wood @FELIX Pro XL 3.0",
+            "sub_path": "/FELIXPlastic/FELIX Wood @FELIX Pro XL 3.0.json"
+        },
+        {
+            "name": "FELIX Wood @FELIX Tec 4",
+            "sub_path": "/FELIXPlastic/FELIX Wood @FELIX Tec 4 copy.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 175@FELIX Food Double.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 175@FELIX Food Single.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 175@FELIX Food Switch.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 312@FELIX Food Double.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 312@FELIX Food Single.json"
+        },
+        {
+            "name": "Hummus",
+            "sub_path": "/FELIXFood/FELIX Scale 3 312@FELIX Food Switch.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 175@FELIX Food Double.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 175@FELIX Food Single.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 175@FELIX Food Switch.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 312@FELIX Food Double.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 312@FELIX Food Single.json"
+        },
+        {
+            "name": "Mashed potatoes",
+            "sub_path": "/FELIXFood/FELIX Scale 4 312@FELIX Food Switch.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 175@FELIX Food Double.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 175@FELIX Food Single.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 175@FELIX Food Switch.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 312@FELIX Food Double.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 312@FELIX Food Single.json"
+        },
+        {
+            "name": "Molten chocolate",
+            "sub_path": "/FELIXFood/FELIX Scale 1 312@FELIX Food Switch.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 175@FELIX Food Double.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 175@FELIX Food Single.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 175@FELIX Food Switch.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 312@FELIX Food Double.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 312@FELIX Food Single.json"
+        },
+        {
+            "name": "Yogurt",
+            "sub_path": "/FELIXFood/FELIX Scale 2 312@FELIX Food Switch.json"
         }
     ]
 }

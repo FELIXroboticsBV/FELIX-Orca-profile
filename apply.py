@@ -31,7 +31,7 @@ PROCESS_SUBFOLDER = "process"
 FILAMENT_SUBFOLDER = "filament"
 
 
-def scan_type_list(directory: Path, wanted_type: str, sort: bool = True ,parent: String):
+def scan_type_list(directory: Path, wanted_type: str, sort: bool = True):
     """
     Scan every *.json file directly inside `directory`, load it, and keep
     the ones whose "type" field equals `wanted_type`. Returns a list of
@@ -57,10 +57,8 @@ def scan_type_list(directory: Path, wanted_type: str, sort: bool = True ,parent:
             continue
 
         name = data.get("name", f.stem)
-        try:
-            path = f"{directory.relative_to(directory.name).name}/{f.name}"
-        except(ValueError):
-            path = f"{parent}/{directory.name}/{f.name}"
+
+        path = f"/{directory.name}/{f.name}"
         
         entries.append({
             "name": name,
