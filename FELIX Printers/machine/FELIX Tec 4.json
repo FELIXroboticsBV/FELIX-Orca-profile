@@ -7,6 +7,6 @@
   "family": "FELIX Printers",
   "bed_model": "FELIX_Tec_Series_Buildplate.stl",
   "bed_texture": "FELIX Tec 4 Series build plate.svg",
-  "hotend_model": "",
+  "hotend_model": "hotend.stl",
   "default_materials": ""
 }

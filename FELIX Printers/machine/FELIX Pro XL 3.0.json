@@ -7,6 +7,6 @@
   "family": "FELIX Printers",
   "bed_model": "FELIX_Pro_XL_Series_Buildplate.stl",
   "bed_texture": "FELIX Pro XL Series build plate.svg",
-  "hotend_model": "",
+  "hotend_model": "hotend.stl",
   "default_materials": ""
 }
