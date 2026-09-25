@@ -32,5 +32,7 @@
   "overhang_fan_speed": ["100"],
   "reduce_fan_stop_start_freq": ["1"],
   "slow_down_layer_time": ["8"],
-  "slow_down_min_speed": ["20"]
+  "slow_down_min_speed": ["20"],
+  "filament_retraction_speed": ["5"],
+  "filament_retraction_length": ["0.5"]
 }
