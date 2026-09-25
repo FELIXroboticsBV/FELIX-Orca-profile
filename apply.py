@@ -30,14 +30,10 @@ MACHINE_SUBFOLDER = "machine"
 PROCESS_SUBFOLDER = "process"
 FILAMENT_SUBFOLDER = "filament"
 
+def scan_type_list(directory: Path, wanted_type: str, root: Path = None, sort: bool = True):
+    if root is None:
+        root = directory  # first call: this directory IS the root
 
-def scan_type_list(directory: Path, wanted_type: str, sort: bool = True):
-    """
-    Scan every *.json file directly inside `directory`, load it, and keep
-    the ones whose "type" field equals `wanted_type`. Returns a list of
-    {"name": ..., "sub_path": "<folder>/<file>.json"} dicts, matching the
-    existing manifest structure.
-    """
     entries = []
 
     if not directory.is_dir():
@@ -45,21 +41,21 @@ def scan_type_list(directory: Path, wanted_type: str, sort: bool = True):
         return entries
 
     for f in sorted(directory.glob("*.json")):
-        
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError) as e:
             print(f"  ! Skipping {f.name}: {e}")
             continue
 
-
         if data.get("type") != wanted_type:
             continue
 
         name = data.get("name", f.stem)
 
-        path = f"/{directory.name}/{f.name}"
-        
+        # path relative to the top-level root, e.g. "filament/FELIX Food/foo.json"
+        rel = f.relative_to(root.parent)  # includes root's own folder name, e.g. "filament/..."
+        path = rel.as_posix()
+
         entries.append({
             "name": name,
             "sub_path": path,
@@ -69,12 +65,10 @@ def scan_type_list(directory: Path, wanted_type: str, sort: bool = True):
         if d.is_dir():
             print(d)
             print(f"Recursively traversing the directory {d.name}")
-            for item in scan_type_list(d, wanted_type, False):
+            for item in scan_type_list(d, wanted_type, root, False):
                 entries.append(item)
 
-    # Put "*_common" profiles first (they're usually the base/inherited
-    # ones), then sort the rest alphabetically by name.
-    if(sort):
+    if sort:
         entries.sort(key=lambda e: (0 if "common" in e["name"].lower() else 1, e["name"].lower()))
     return entries
 
