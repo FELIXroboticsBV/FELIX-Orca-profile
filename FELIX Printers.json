@@ -100,7 +100,7 @@
         },
         {
             "name": "fdm_filament_food",
-            "sub_path": "filament/fdm_fillament_food.json"
+            "sub_path": "filament/fdm_filament_food.json"
         },
         {
             "name": "fdm_filament_pa",

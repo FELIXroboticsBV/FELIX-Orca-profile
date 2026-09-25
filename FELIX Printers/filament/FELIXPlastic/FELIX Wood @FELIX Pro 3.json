@@ -3,7 +3,7 @@
   "name": "FELIX Wood @FELIX Pro 3",
   "inherits": "fdm_filament_pla",
   "from": "system",
-  "setting_id": "NDBqFGNNvKxlmo3V",
+  "setting_id": "V6sK1jP8yC5tG2xQ",
   "filament_id": "FELIX Wood @FELIX Pro 3",
   "instantiation": "true",
   "chamber_temperature": ["28"],

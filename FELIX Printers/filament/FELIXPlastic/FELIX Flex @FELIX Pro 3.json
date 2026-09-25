@@ -3,7 +3,7 @@
   "name": "FELIX Flex @FELIX Pro 3",
   "inherits": "fdm_filament_flex",
   "from": "system",
-  "setting_id": "NDBqFGNNvKxlmo3V",
+  "setting_id": "k3F9pXqZ2mN7wRtY",
   "filament_id": "FELIX Flex @FELIX Pro 3",
   "instantiation": "true",
   "chamber_temperature": ["20"],

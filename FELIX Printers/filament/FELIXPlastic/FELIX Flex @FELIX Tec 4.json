@@ -3,7 +3,7 @@
   "name": "FELIX Flex @FELIX Tec 4",
   "inherits": "fdm_filament_flex",
   "from": "system",
-  "setting_id": "NDBqFGNNvKxlmo3V",
+  "setting_id": "M2xP7qA5vL9cN4tB",
   "filament_id": "FELIX Flex @FELIX Tec 4",
   "instantiation": "true",
   "chamber_temperature": ["20"],

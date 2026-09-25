@@ -3,7 +3,7 @@
   "name": "FELIX Premium PLA @FELIX Pro 3",
   "inherits": "fdm_filament_pla",
   "from": "system",
-  "setting_id": "NDBqFGNNvKxlmo3V",
+  "setting_id": "D5cP8kQ3tY6hM1sN",
   "filament_id": "FELIX Premium PLA @FELIX Pro 3",
   "instantiation": "true",
   "chamber_temperature": ["28"],

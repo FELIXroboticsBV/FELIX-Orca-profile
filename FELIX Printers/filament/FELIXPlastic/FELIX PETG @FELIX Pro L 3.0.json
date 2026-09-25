@@ -3,7 +3,7 @@
   "name": "FELIX PETG @FELIX Pro L 3.0",
   "inherits": "fdm_filament_pet",
   "from": "system",
-  "setting_id": "b55Rd5kKGP1A3BM2",
+  "setting_id": "X4nT8bY2sC6pL3qK",
   "filament_id": "FELIX PETG @FELIX Pro L 3.0",
   "instantiation": "true",
   "chamber_temperature": ["28"],
