@@ -1,0 +1,12 @@
+{
+  "type": "machine",
+  "name": "FELIX Food Double 0.5mm nozzles",
+  "inherits": "fdm_felix_double_food_common",
+  "from": "system",
+  "instantiation": "true",
+  "printer_model": "FELIX Food Double",
+  "printer_variant": "0.5",
+  "nozzle_diameter": ["0.5", "0.5"],
+  "printable_area": ["0x0", "250x0", "250x195", "0x195"],
+  "printable_height": "150"
+}

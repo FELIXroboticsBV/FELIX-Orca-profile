@@ -1,0 +1,12 @@
+{
+  "type": "machine",
+  "name": "FELIX Food Single 1.0mm nozzle",
+  "inherits": "fdm_felix_food_common",
+  "from": "system",
+  "instantiation": "true",
+  "printer_model": "FELIX Food Single",
+  "printer_variant": "1.0",
+  "nozzle_diameter": ["1.0"],
+  "printable_area": ["0x0", "250x0", "250x195", "0x195"],
+  "printable_height": "150"
+}
