@@ -39,6 +39,14 @@
             "sub_path": "machine/fdm_all_machines_common.json"
         },
         {
+            "name": "fdm_felix_double_food_common",
+            "sub_path": "machine/fdm_felix_food_double_common.json"
+        },
+        {
+            "name": "fdm_felix_double_food_common",
+            "sub_path": "machine/fdm_felix_food_switch_common.json"
+        },
+        {
             "name": "fdm_felix_food_common",
             "sub_path": "machine/fdm_felix_food_common.json"
         },
@@ -47,32 +55,144 @@
             "sub_path": "machine/fdm_felix_plastic_common.json"
         },
         {
+            "name": "fdm_felix_plastic_common",
+            "sub_path": "machine/fdm_felix_pro_3_common.json"
+        },
+        {
+            "name": "fdm_felix_plastic_common",
+            "sub_path": "machine/fdm_felix_pro_l_3.json"
+        },
+        {
+            "name": "fdm_felix_plastic_common",
+            "sub_path": "machine/fdm_felix_pro_xl_3 copy 2.json"
+        },
+        {
+            "name": "fdm_felix_plastic_common",
+            "sub_path": "machine/fdm_felix_tec_common.json"
+        },
+        {
+            "name": "FELIX Food Double 0.5mm 0.5mm nozzles",
+            "sub_path": "machine/FELIX Food Double 0.5mm 0.5mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Double 1.0mm 1.0mm nozzles",
+            "sub_path": "machine/FELIX Food Double 1.0mm 1.0mm nozzles.json"
+        },
+        {
             "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
             "sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Double 3.0mm 3.0mm nozzles",
+            "sub_path": "machine/FELIX Food Double 3.0mm 3.0mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Double 4.0mm 4.0mm nozzles",
+            "sub_path": "machine/FELIX Food Double 4.0mm 4.0mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Single 0.5mm nozzle",
+            "sub_path": "machine/FELIX Food Single 0.5mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 1.0mm nozzle",
+            "sub_path": "machine/FELIX Food Single 1.0mm nozzle.json"
         },
         {
             "name": "FELIX Food Single 2.0mm nozzle",
             "sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
         },
         {
+            "name": "FELIX Food Single 3.0mm nozzle",
+            "sub_path": "machine/FELIX Food Single 3.0mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 4.0mm nozzle",
+            "sub_path": "machine/FELIX Food Single 4.0mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 0.5mm 0.5mm nozzles",
+            "sub_path": "machine/FELIX Food Switch 0.5mm 0.5mm nozzles.json"
+        },
+        {
+            "name": "FELIX Food Switch 1.0mm 1.0mm nozzles",
+            "sub_path": "machine/FELIX Food Switch 1.0mm 1.0mm nozzles.json"
+        },
+        {
             "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
             "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
         },
         {
-            "name": "FELIX Pro 3 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro 3 1.75mm nozzles.json"
+            "name": "FELIX Food Switch 3.0mm 3.0mm nozzles",
+            "sub_path": "machine/FELIX Food Switch 3.0mm 3.0mm nozzles.json"
         },
         {
-            "name": "FELIX Pro L 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro L 3.0 1.75mm nozzles.json"
+            "name": "FELIX Food Switch 4.0mm 4.0mm nozzles",
+            "sub_path": "machine/FELIX Food Switch 4.0mm 4.0mm nozzles.json"
         },
         {
-            "name": "FELIX Pro XL 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro XL 3.0 1.75mm nozzles.json"
+            "name": "FELIX Pro 3 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.25mm nozzle.json"
         },
         {
-            "name": "FELIX Tec 4 1.75mm nozzles",
-            "sub_path": "machine/FELIX Tec 4 1.75mm nozzles.json"
+            "name": "FELIX Pro 3 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.25mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.35mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.50mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.70mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.70mm nozzle.json"
         }
     ],
     "process_list": [
