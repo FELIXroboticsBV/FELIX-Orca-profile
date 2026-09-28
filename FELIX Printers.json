@@ -259,48 +259,76 @@
             "sub_path": "filament/fdm_filament_tpu.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro 3.json"
+            "name": "FELIX FLEX Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.35mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro L 3.0.json"
+            "name": "FELIX FLEX Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.5mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro XL 3.0.json"
+            "name": "FELIX FLEX Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.25mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Tec 4.json"
+            "name": "FELIX FLEX Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.35mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro 3.json"
+            "name": "FELIX FLEX Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.5mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro L 3.0.json"
+            "name": "FELIX FLEX Hardened Steel 0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.7mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro XL 3.0.json"
+            "name": "FELIX Premium PLA Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.35mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro 3.json"
+            "name": "FELIX Premium PLA Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.5mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro L 3.0.json"
+            "name": "FELIX Premium PLA Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.25mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro XL 3.0.json"
+            "name": "FELIX Premium PLA Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.35mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Tec 4.json"
+            "name": "FELIX Premium PLA Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.5mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel 0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.7mm.json"
+        },
+        {
+            "name": "FELIX PTEG Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.35mm.json"
+        },
+        {
+            "name": "FELIX PTEG Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.5mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel  0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel  0.7mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.25mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.35mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.5mm.json"
         },
         {
             "name": "FELIX Scale 1 175@FELIX Food Double",
@@ -397,22 +425,6 @@
         {
             "name": "FELIX Scale 4 312@FELIX Food Switch",
             "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Wood @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro 3.json"
-        },
-        {
-            "name": "FELIX Wood @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro L 3.0.json"
-        },
-        {
-            "name": "FELIX Wood @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro XL 3.0.json"
-        },
-        {
-            "name": "FELIX Wood @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Tec 4 copy.json"
         }
     ]
 }
