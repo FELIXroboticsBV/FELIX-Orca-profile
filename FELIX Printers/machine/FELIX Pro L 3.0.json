@@ -2,7 +2,7 @@
   "type": "machine_model",
   "name": "FELIX Pro L 3.0",
   "model_id": "felix_pro_series",
-  "nozzle_diameter": "1.75; 1.75;",
+  "nozzle_diameter": "0.25; 0.25;",
   "machine_tech": "FFF",
   "family": "FELIX Printers",
   "bed_model": "FELIX_Pro_L_Series_Buildplate.stl",

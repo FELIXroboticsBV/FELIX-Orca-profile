@@ -1,6 +1,6 @@
 {
   "type": "machine",
-  "name": "fdm_felix_plastic_common",
+  "name": "fdm_felix_tec_common",
   "inherits": "fdm_all_machines_common",
   "from": "system",
   "instantiation": "false",

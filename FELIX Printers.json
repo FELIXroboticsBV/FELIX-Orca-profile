@@ -39,35 +39,35 @@
             "sub_path": "machine/fdm_all_machines_common.json"
         },
         {
-            "name": "fdm_felix_double_food_common",
+            "name": "fdm_felix_food_common",
+            "sub_path": "machine/fdm_felix_food_common.json"
+        },
+        {
+            "name": "fdm_felix_food_double_common",
             "sub_path": "machine/fdm_felix_food_double_common.json"
         },
         {
-            "name": "fdm_felix_double_food_common",
+            "name": "fdm_felix_food_switch_common",
             "sub_path": "machine/fdm_felix_food_switch_common.json"
-        },
-        {
-            "name": "fdm_felix_food_common",
-            "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
             "name": "fdm_felix_plastic_common",
             "sub_path": "machine/fdm_felix_plastic_common.json"
         },
         {
-            "name": "fdm_felix_plastic_common",
+            "name": "fdm_felix_pro_3_common",
             "sub_path": "machine/fdm_felix_pro_3_common.json"
         },
         {
-            "name": "fdm_felix_plastic_common",
+            "name": "fdm_felix_pro_l_3_common",
             "sub_path": "machine/fdm_felix_pro_l_3.json"
         },
         {
-            "name": "fdm_felix_plastic_common",
-            "sub_path": "machine/fdm_felix_pro_xl_3 copy 2.json"
+            "name": "fdm_felix_pro_xl_3_common",
+            "sub_path": "machine/fdm_felix_pro_xl_3_common.json"
         },
         {
-            "name": "fdm_felix_plastic_common",
+            "name": "fdm_felix_tec_common",
             "sub_path": "machine/fdm_felix_tec_common.json"
         },
         {

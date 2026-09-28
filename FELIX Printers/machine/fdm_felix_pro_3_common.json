@@ -1,6 +1,6 @@
 {
   "type": "machine",
-  "name": "fdm_felix_plastic_common",
+  "name": "fdm_felix_pro_3_common",
   "inherits": "fdm_all_machines_common",
   "from": "system",
   "instantiation": "false",
@@ -9,7 +9,6 @@
   "machine_max_feedrate_z": ["20"],
   "machine_max_feedrate_e": ["60"],
   "shape": "rectangular",
-  "extruder_offset": ["0x0", "0x0"],
   "printable_area": ["0x0", "235x0", "235x244", "0x244"],
   "printable_height": "235",
   "z_offset": "0"
