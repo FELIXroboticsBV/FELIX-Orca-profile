@@ -1,7 +1,7 @@
 {
   "type": "filament",
   "name": "fdm_filament_food",
-  "inherits": "",
+  "inherits": "fdm_filament_common",
   "from": "system",
   "filament_id": "GFS98",
   "instantiation": "false",

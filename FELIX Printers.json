@@ -267,30 +267,6 @@
             "sub_path": "filament/FELIXPlastic/FELIX FLEX  Brass @ 0.50mm.json"
         },
         {
-            "name": "FELIX FLEX Brass 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.35mm.json"
-        },
-        {
-            "name": "FELIX FLEX Brass 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.5mm.json"
-        },
-        {
-            "name": "FELIX FLEX Hardened Steel 0.25mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.25mm.json"
-        },
-        {
-            "name": "FELIX FLEX Hardened Steel 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.35mm.json"
-        },
-        {
-            "name": "FELIX FLEX Hardened Steel 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.5mm.json"
-        },
-        {
-            "name": "FELIX FLEX Hardened Steel 0.7mm",
-            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.7mm.json"
-        },
-        {
             "name": "FELIX FLEX Hardened Steel @ 0.25mm",
             "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.25mm.json"
         },
@@ -331,36 +307,12 @@
             "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.70mm.json"
         },
         {
-            "name": "FELIX Premium PLA Brass 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.35mm.json"
-        },
-        {
-            "name": "FELIX Premium PLA Brass 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.5mm.json"
-        },
-        {
             "name": "FELIX Premium PLA Brass @ 0.35mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.35mm.json"
         },
         {
             "name": "FELIX Premium PLA Brass @ 0.50mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.50mm.json"
-        },
-        {
-            "name": "FELIX Premium PLA Hardened Steel 0.25mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.25mm.json"
-        },
-        {
-            "name": "FELIX Premium PLA Hardened Steel 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.35mm.json"
-        },
-        {
-            "name": "FELIX Premium PLA Hardened Steel 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.5mm.json"
-        },
-        {
-            "name": "FELIX Premium PLA Hardened Steel 0.7mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.7mm.json"
         },
         {
             "name": "FELIX Premium PLA Hardened Steel @ 0.25Inheritsmm",
@@ -383,126 +335,6 @@
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.70mm.json"
         },
         {
-            "name": "FELIX PTEG Brass 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.35mm.json"
-        },
-        {
-            "name": "FELIX PTEG Brass 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.5mm.json"
-        },
-        {
-            "name": "FELIX PTEG Hardened Steel  0.7mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel  0.7mm.json"
-        },
-        {
-            "name": "FELIX PTEG Hardened Steel 0.25mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.25mm.json"
-        },
-        {
-            "name": "FELIX PTEG Hardened Steel 0.35mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.35mm.json"
-        },
-        {
-            "name": "FELIX PTEG Hardened Steel 0.5mm",
-            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.5mm.json"
-        },
-        {
-            "name": "FELIX Scale 1 175@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 175@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 1 175@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 175@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 1 175@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 175@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 1 312@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 312@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 1 312@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 312@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 1 312@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 1 312@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 2 175@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 175@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 2 175@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 175@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 2 175@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 175@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 2 312@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 312@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 2 312@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 312@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 2 312@FELIX Food Switch.json",
-            "sub_path": "filament/FELIXFood/FELIX Scale 2 312@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 3 175@FELIX Food Double.json",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 175@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 3 175@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 175@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 3 175@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 175@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 3 312@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 312@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 3 312@FELIX Food Single.json",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 312@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 3 312@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 3 312@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 4 175@FELIX Food Double.json",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 175@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 4 175@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 175@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 4 175@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 175@FELIX Food Switch.json"
-        },
-        {
-            "name": "FELIX Scale 4 312@FELIX Food Double",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Double.json"
-        },
-        {
-            "name": "FELIX Scale 4 312@FELIX Food Single",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Single.json"
-        },
-        {
-            "name": "FELIX Scale 4 312@FELIX Food Switch",
-            "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Switch.json"
-        },
-        {
             "name": "FELIX Wood  Brass @ 0.35mm",
             "sub_path": "filament/FELIXPlastic/FELIX Wood  Brass @ 0.35mm.json"
         },
@@ -523,164 +355,160 @@
             "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.50mm.json"
         },
         {
-            "name": "FELIX Wood Hardened Steel @ 0.70mm",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.70mm.json"
+            "name": "Food Medium Plastic  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Medium Plastic  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @0.50mm.json"
+            "name": "Food Medium Plastic  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Medium Plastic  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @1.00mm.json"
+            "name": "Food Medium Plastic  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Medium Plastic  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @2.00mm.json"
+            "name": "Food Medium Plastic  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Medium Plastic  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @3.00mm.json"
+            "name": "Food Medium Plastic  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Medium Plastic  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @4.00mm.json"
+            "name": "Food Medium Stainless Steel  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Medium Stainless Steel  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @0.50mm.json"
+            "name": "Food Medium Stainless Steel  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Medium Stainless Steel  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @1.00mm.json"
+            "name": "Food Medium Stainless Steel  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Medium Stainless Steel  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @2.00mm.json"
+            "name": "Food Medium Stainless Steel  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Medium Stainless Steel  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @3.00mm.json"
+            "name": "Food Medium Stainless Steel  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Medium Stainless Steel  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @4.00mm.json"
+            "name": "Food Thick Stainless Steel  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Thick Stainless Steel  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @0.50mm.json"
+            "name": "Food Thick Stainless Steel  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Thick Stainless Steel  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @1.00mm.json"
+            "name": "Food Thick Stainless Steel  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Thick Stainless Steel  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @2.00mm.json"
+            "name": "Food Thick Stainless Steel  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Thick Stainless Steel  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @3.00mm.json"
+            "name": "Food Thick Stainless Steel  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Thick Stainless Steel  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @4.00mm.json"
+            "name": "Food Thin Plastic  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Thin Plastic  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @0.50mm.json"
+            "name": "Food Thin Plastic  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Thin Plastic  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @1.00mm.json"
+            "name": "Food Thin Plastic  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Thin Plastic  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @2.00mm.json"
+            "name": "Food Thin Plastic  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Thin Plastic  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @3.00mm.json"
+            "name": "Food Thin Plastic  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Thin Plastic  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @4.00mm.json"
+            "name": "Food Thin Stainless Steel  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Thin Stainless Steel  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @0.50mm.json"
+            "name": "Food Thin Stainless Steel  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Thin Stainless Steel  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @1.00mm.json"
+            "name": "Food Thin Stainless Steel  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Thin Stainless Steel  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @2.00mm.json"
+            "name": "Food Thin Stainless Steel  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Thin Stainless Steel  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @3.00mm.json"
+            "name": "Food Thin Stainless Steel  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Thin Stainless Steel  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @4.00mm.json"
+            "name": "Food Very Thick Stainless Steel  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Very Thick Stainless Steel  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @1.00mm.json"
+            "name": "Food Very Thick Stainless Steel  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Very Thick Stainless Steel  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @2.00mm.json"
+            "name": "Food Very Thick Stainless Steel  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Very Thick Stainless Steel  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @3.00mm.json"
+            "name": "Food Very Thick Stainless Steel  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Very Thick Stainless Steel  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @4.00mm.json"
+            "name": "Food Very Thin Plastic  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Very Thin Plastic  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @0.50mm.json"
+            "name": "Food Very Thin Plastic  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Very Thin Plastic  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @1.00mm.json"
+            "name": "Food Very Thin Plastic  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Very Thin Plastic  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @2.00mm.json"
+            "name": "Food Very Thin Plastic  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Very Thin Plastic  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @3.00mm.json"
+            "name": "Food Very Thin Plastic  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Syringe  @4.00mm.json"
         },
         {
-            "name": "Food Very Thin Plastic  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @4.00mm.json"
+            "name": "Food Very Thin Stainless Steel  Syringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Syringe  @0.50mm.json"
         },
         {
-            "name": "Food Very Thin Stainless Steel  Siringe  @0.50mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @0.50mm.json"
+            "name": "Food Very Thin Stainless Steel  Syringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Syringe  @1.00mm.json"
         },
         {
-            "name": "Food Very Thin Stainless Steel  Siringe  @1.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @1.00mm.json"
+            "name": "Food Very Thin Stainless Steel  Syringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Syringe  @2.00mm.json"
         },
         {
-            "name": "Food Very Thin Stainless Steel  Siringe  @2.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @2.00mm.json"
+            "name": "Food Very Thin Stainless Steel  Syringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Syringe  @3.00mm.json"
         },
         {
-            "name": "Food Very Thin Stainless Steel  Siringe  @3.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @3.00mm.json"
-        },
-        {
-            "name": "Food Very Thin Stainless Steel  Siringe  @4.00mm",
-            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @4.00mm.json"
+            "name": "Food Very Thin Stainless Steel  Syringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Syringe  @4.00mm.json"
         },
         {
             "name": "FORMFUTURA AppoloX ASA Brass @ 0.35mm",
