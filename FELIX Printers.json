@@ -259,6 +259,14 @@
             "sub_path": "filament/fdm_filament_tpu.json"
         },
         {
+            "name": "FELIX FLEX  Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX  Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX FLEX  Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX  Brass @ 0.50mm.json"
+        },
+        {
             "name": "FELIX FLEX Brass 0.35mm",
             "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.35mm.json"
         },
@@ -283,12 +291,60 @@
             "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.7mm.json"
         },
         {
+            "name": "FELIX FLEX Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX FLEX Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX FLEX Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX FLEX Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX PETG Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX PETG Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.70mm.json"
+        },
+        {
             "name": "FELIX Premium PLA Brass 0.35mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.35mm.json"
         },
         {
             "name": "FELIX Premium PLA Brass 0.5mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.5mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.50mm.json"
         },
         {
             "name": "FELIX Premium PLA Hardened Steel 0.25mm",
@@ -305,6 +361,22 @@
         {
             "name": "FELIX Premium PLA Hardened Steel 0.7mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.7mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.70mm.json"
         },
         {
             "name": "FELIX PTEG Brass 0.35mm",
@@ -425,6 +497,150 @@
         {
             "name": "FELIX Scale 4 312@FELIX Food Switch",
             "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Switch.json"
+        },
+        {
+            "name": "FELIX Wood  Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood  Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Wood Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Brass @ 0.35mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Brass @ 0.50mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.70mm.json"
         }
     ]
 }
