@@ -71,64 +71,64 @@
             "sub_path": "machine/fdm_felix_tec_common.json"
         },
         {
-            "name": "FELIX Food Double 0.5mm 0.5mm nozzles",
-            "sub_path": "machine/FELIX Food Double 0.5mm 0.5mm nozzles.json"
+            "name": "FELIX Food Double 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Double 0.50mm nozzle.json"
         },
         {
-            "name": "FELIX Food Double 1.0mm 1.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 1.0mm 1.0mm nozzles.json"
+            "name": "FELIX Food Double 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 1.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
+            "name": "FELIX Food Double 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 2.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Double 3.0mm 3.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 3.0mm 3.0mm nozzles.json"
+            "name": "FELIX Food Double 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 3.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Double 4.0mm 4.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 4.0mm 4.0mm nozzles.json"
+            "name": "FELIX Food Double 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 4.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Single 0.5mm nozzle",
-            "sub_path": "machine/FELIX Food Single 0.5mm nozzle.json"
+            "name": "FELIX Food Single 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Single 0.50mm nozzle.json"
         },
         {
-            "name": "FELIX Food Single 1.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 1.0mm nozzle.json"
+            "name": "FELIX Food Single 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 1.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Single 2.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+            "name": "FELIX Food Single 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 2.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Single 3.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 3.0mm nozzle.json"
+            "name": "FELIX Food Single 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 3.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Single 4.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 4.0mm nozzle.json"
+            "name": "FELIX Food Single 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 4.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Switch 0.5mm 0.5mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 0.5mm 0.5mm nozzles.json"
+            "name": "FELIX Food Switch 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 0.50mm nozzle.json"
         },
         {
-            "name": "FELIX Food Switch 1.0mm 1.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 1.0mm 1.0mm nozzles.json"
+            "name": "FELIX Food Switch 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 1.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
+            "name": "FELIX Food Switch 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 2.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Switch 3.0mm 3.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 3.0mm 3.0mm nozzles.json"
+            "name": "FELIX Food Switch 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 3.00mm nozzle.json"
         },
         {
-            "name": "FELIX Food Switch 4.0mm 4.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 4.0mm 4.0mm nozzles.json"
+            "name": "FELIX Food Switch 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 4.00mm nozzle.json"
         },
         {
             "name": "FELIX Pro 3 0.25mm nozzle",
@@ -363,6 +363,10 @@
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.7mm.json"
         },
         {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.25Inheritsmm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.25Inheritsmm.json"
+        },
+        {
             "name": "FELIX Premium PLA Hardened Steel @ 0.25mm",
             "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.25mm.json"
         },
@@ -521,6 +525,162 @@
         {
             "name": "FELIX Wood Hardened Steel @ 0.70mm",
             "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @4.00mm.json"
         },
         {
             "name": "FORMFUTURA AppoloX ASA Brass @ 0.35mm",
