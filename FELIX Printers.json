@@ -199,6 +199,162 @@
         {
             "name": "fdm_process_common",
             "sub_path": "process/fdm_process_common.json"
+        },
+        {
+            "name": "fdm_process_felix_food_common",
+            "sub_path": "process/fdm_process_felix_food_common.json"
+        },
+        {
+            "name": "fdm_process_felix_plastic_common",
+            "sub_path": "process/fdm_process_felix_plastic_common.json"
+        },
+        {
+            "name": "FELIX Food Coarse @ 0.50mm",
+            "sub_path": "process/FELIX Food Coarse @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Food Coarse @ 1.00mm",
+            "sub_path": "process/FELIX Food Coarse @ 1.00mm.json"
+        },
+        {
+            "name": "FELIX Food Coarse @ 2.00mm",
+            "sub_path": "process/FELIX Food Coarse @ 2.00mm.json"
+        },
+        {
+            "name": "FELIX Food Coarse @ 3.00mm",
+            "sub_path": "process/FELIX Food Coarse @ 3.00mm.json"
+        },
+        {
+            "name": "FELIX Food Coarse @ 4.00mm",
+            "sub_path": "process/FELIX Food Coarse @ 4.00mm.json"
+        },
+        {
+            "name": "FELIX Food Fine @ 0.50mm",
+            "sub_path": "process/FELIX Food Fine @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Food Fine @ 1.00mm",
+            "sub_path": "process/FELIX Food Fine @ 1.00mm.json"
+        },
+        {
+            "name": "FELIX Food Fine @ 2.00mm",
+            "sub_path": "process/FELIX Food Fine @ 2.00mm.json"
+        },
+        {
+            "name": "FELIX Food Fine @ 3.00mm",
+            "sub_path": "process/FELIX Food Fine @ 3.00mm.json"
+        },
+        {
+            "name": "FELIX Food Fine @ 4.00mm",
+            "sub_path": "process/FELIX Food Fine @ 4.00mm.json"
+        },
+        {
+            "name": "FELIX Food Normal @ 0.50mm",
+            "sub_path": "process/FELIX Food Normal @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Food Normal @ 1.00mm",
+            "sub_path": "process/FELIX Food Normal @ 1.00mm.json"
+        },
+        {
+            "name": "FELIX Food Normal @ 2.00mm",
+            "sub_path": "process/FELIX Food Normal @ 2.00mm.json"
+        },
+        {
+            "name": "FELIX Food Normal @ 3.00mm",
+            "sub_path": "process/FELIX Food Normal @ 3.00mm.json"
+        },
+        {
+            "name": "FELIX Food Normal @ 4.00mm",
+            "sub_path": "process/FELIX Food Normal @ 4.00mm.json"
+        },
+        {
+            "name": "FELIX Plastic Coarse @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Coarse @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Coarse @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Coarse @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Plastic Coarse @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Coarse @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Fine @ 0.25mm",
+            "sub_path": "process/FELIX Plastic Fine @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Plastic Fine @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Fine @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Fine @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Fine @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Plastic Fine @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Fine @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Normal @ 0.25mm",
+            "sub_path": "process/FELIX Plastic Normal @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Plastic Normal @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Normal @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Normal @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Normal @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Plastic Normal @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Normal @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Slightly Coarse @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Slightly Coarse @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Slightly Coarse @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Slightly Coarse @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Plastic Slightly Coarse @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Slightly Coarse @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Super Coarse @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Super Coarse @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Super Fine @ 0.25mm",
+            "sub_path": "process/FELIX Plastic Super Fine @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Plastic Super Fine @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Super Fine @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Very Coarse @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Very Coarse @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Plastic Very Coarse @ 0.70mm",
+            "sub_path": "process/FELIX Plastic Very Coarse @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Plastic Very Fine @ 0.25mm",
+            "sub_path": "process/FELIX Plastic Very Fine @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Plastic Very Fine @ 0.35mm",
+            "sub_path": "process/FELIX Plastic Very Fine @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Plastic Very Fine @ 0.50mm",
+            "sub_path": "process/FELIX Plastic Very Fine @ 0.50mm.json"
         }
     ],
     "filament_list": [

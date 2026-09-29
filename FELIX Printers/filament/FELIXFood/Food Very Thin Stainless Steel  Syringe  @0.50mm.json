@@ -19,13 +19,13 @@
   "filament_flow_ratio": [
     "1.0"
   ],
-  "filament_retract_length": [
+  "filament_retraction_length": [
     "0.1"
   ],
   "filament_retract_restart_extra": [
     "0.03"
   ],
-  "filament_retract_speed": [
+  "filament_retraction_speed": [
     "5.0"
   ],
   "filament_deretraction_speed": [
