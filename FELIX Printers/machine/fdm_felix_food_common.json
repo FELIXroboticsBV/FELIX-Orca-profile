@@ -8,5 +8,8 @@
   "machine_max_feedrate_y": ["150"],
   "machine_max_feedrate_z": ["10"],
   "machine_max_feedrate_e": ["20"],
-  "shape": "rectangular"
+  "shape": "rectangular",
+  "gcode_flavor": "repetier",
+  "printable_area": ["0x0", "250x0", "250x195", "0x195"],
+  "printable_height": "150"
 }

@@ -43,36 +43,156 @@
             "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
+            "name": "fdm_felix_food_double_common",
+            "sub_path": "machine/fdm_felix_food_double_common.json"
+        },
+        {
+            "name": "fdm_felix_food_switch_common",
+            "sub_path": "machine/fdm_felix_food_switch_common.json"
+        },
+        {
             "name": "fdm_felix_plastic_common",
             "sub_path": "machine/fdm_felix_plastic_common.json"
         },
         {
-            "name": "FELIX Food Double 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Double 2.0mm 2.0mm nozzles.json"
+            "name": "fdm_felix_pro_3_common",
+            "sub_path": "machine/fdm_felix_pro_3_common.json"
         },
         {
-            "name": "FELIX Food Single 2.0mm nozzle",
-            "sub_path": "machine/FELIX Food Single 2.0mm nozzle.json"
+            "name": "fdm_felix_pro_l_3_common",
+            "sub_path": "machine/fdm_felix_pro_l_3.json"
         },
         {
-            "name": "FELIX Food Switch 2.0mm 2.0mm nozzles",
-            "sub_path": "machine/FELIX Food Switch 2.0mm 2.0mm nozzles.json"
+            "name": "fdm_felix_pro_xl_3_common",
+            "sub_path": "machine/fdm_felix_pro_xl_3_common.json"
         },
         {
-            "name": "FELIX Pro 3 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro 3 1.75mm nozzles.json"
+            "name": "fdm_felix_tec_common",
+            "sub_path": "machine/fdm_felix_tec_common.json"
         },
         {
-            "name": "FELIX Pro L 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro L 3.0 1.75mm nozzles.json"
+            "name": "FELIX Food Double 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Double 0.50mm nozzle.json"
         },
         {
-            "name": "FELIX Pro XL 3.0 1.75mm nozzles",
-            "sub_path": "machine/FELIX Pro XL 3.0 1.75mm nozzles.json"
+            "name": "FELIX Food Double 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 1.00mm nozzle.json"
         },
         {
-            "name": "FELIX Tec 4 1.75mm nozzles",
-            "sub_path": "machine/FELIX Tec 4 1.75mm nozzles.json"
+            "name": "FELIX Food Double 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 2.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Double 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 3.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Double 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Double 4.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Single 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 1.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 2.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 3.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Single 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Single 4.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 0.50mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 1.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 1.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 2.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 2.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 3.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 3.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Food Switch 4.00mm nozzle",
+            "sub_path": "machine/FELIX Food Switch 4.00mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro 3 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro 3 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro L 3.0 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro L 3.0 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.25mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.35mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.50mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Pro XL 3.0 0.70mm nozzle",
+            "sub_path": "machine/FELIX Pro XL 3.0 0.70mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.25mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.25mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.35mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.35mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.50mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.50mm nozzle.json"
+        },
+        {
+            "name": "FELIX Tec 4 0.70mm nozzle",
+            "sub_path": "machine/FELIX Tec 4 0.70mm nozzle.json"
         }
     ],
     "process_list": [
@@ -139,48 +259,152 @@
             "sub_path": "filament/fdm_filament_tpu.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro 3.json"
+            "name": "FELIX FLEX  Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX  Brass @ 0.35mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro L 3.0.json"
+            "name": "FELIX FLEX  Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX  Brass @ 0.50mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Pro XL 3.0.json"
+            "name": "FELIX FLEX Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.35mm.json"
         },
         {
-            "name": "FELIX Flex @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Flex @FELIX Tec 4.json"
+            "name": "FELIX FLEX Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Brass 0.5mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro 3.json"
+            "name": "FELIX FLEX Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.25mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro L 3.0.json"
+            "name": "FELIX FLEX Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.35mm.json"
         },
         {
-            "name": "FELIX PETG @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX PETG @FELIX Pro XL 3.0.json"
+            "name": "FELIX FLEX Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.5mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro 3.json"
+            "name": "FELIX FLEX Hardened Steel 0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel 0.7mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro L 3.0.json"
+            "name": "FELIX FLEX Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.25mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Pro XL 3.0.json"
+            "name": "FELIX FLEX Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.35mm.json"
         },
         {
-            "name": "FELIX Premium PLA @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA @FELIX Tec 4.json"
+            "name": "FELIX FLEX Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX FLEX Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX FLEX Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX PETG Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX PETG Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX PETG Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PETG Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass 0.5mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.25mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.5mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel 0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel 0.7mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.25Inheritsmm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.25Inheritsmm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Premium PLA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Premium PLA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FELIX PTEG Brass 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.35mm.json"
+        },
+        {
+            "name": "FELIX PTEG Brass 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Brass 0.5mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel  0.7mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel  0.7mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.25mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.35mm.json"
+        },
+        {
+            "name": "FELIX PTEG Hardened Steel 0.5mm",
+            "sub_path": "filament/FELIXPlastic/FELIX PTEG Hardened Steel 0.5mm.json"
         },
         {
             "name": "FELIX Scale 1 175@FELIX Food Double",
@@ -279,20 +503,304 @@
             "sub_path": "filament/FELIXFood/FELIX Scale 4 312@FELIX Food Switch.json"
         },
         {
-            "name": "FELIX Wood @FELIX Pro 3",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro 3.json"
+            "name": "FELIX Wood  Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood  Brass @ 0.35mm.json"
         },
         {
-            "name": "FELIX Wood @FELIX Pro L 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro L 3.0.json"
+            "name": "FELIX Wood Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Brass @ 0.50mm.json"
         },
         {
-            "name": "FELIX Wood @FELIX Pro XL 3.0",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Pro XL 3.0.json"
+            "name": "FELIX Wood Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.25mm.json"
         },
         {
-            "name": "FELIX Wood @FELIX Tec 4",
-            "sub_path": "filament/FELIXPlastic/FELIX Wood @FELIX Tec 4 copy.json"
+            "name": "FELIX Wood Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Medium Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Medium Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Medium Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thick Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thick Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thin Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Thin Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Thin Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thick Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thick Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Plastic  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Plastic  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @0.50mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @0.50mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @1.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @1.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @2.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @2.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @3.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @3.00mm.json"
+        },
+        {
+            "name": "Food Very Thin Stainless Steel  Siringe  @4.00mm",
+            "sub_path": "filament/FELIXFood/Food Very Thin Stainless Steel  Siringe  @4.00mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA AppoloX ASA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA AppoloX ASA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA Aquasolve PVA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA Aquasolve PVA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA ePLA Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA ePLA Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Brass @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Brass @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FORMFUTURA TitanX ABS Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FORMFUTURA TitanX ABS Hardened Steel @ 0.70mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Brass @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Brass @ 0.35mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Brass @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Brass @ 0.50mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.25mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.25mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.35mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.35mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.50mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "Ultrafuse ABS Fusion+ Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/Ultrafuse ABS Fusion+ Hardened Steel @ 0.70mm.json"
         }
     ]
 }

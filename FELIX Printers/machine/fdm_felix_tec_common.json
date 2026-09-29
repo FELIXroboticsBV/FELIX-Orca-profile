@@ -1,0 +1,16 @@
+{
+  "type": "machine",
+  "name": "fdm_felix_tec_common",
+  "inherits": "fdm_all_machines_common",
+  "from": "system",
+  "instantiation": "false",
+  "machine_max_feedrate_x": ["300"],
+  "machine_max_feedrate_y": ["300"],
+  "machine_max_feedrate_z": ["20"],
+  "machine_max_feedrate_e": ["60"],
+  "shape": "rectangular",
+  "extruder_offset": ["0x0", "0x0"],
+  "printable_area": ["0x0", "205x0", "205x255", "0x255"],
+  "printable_height": "255",
+  "z_offset": "0"
+}
