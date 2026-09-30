@@ -1,34 +1,27 @@
 #!/usr/bin/env python3
-"""
-NOTE: this is vibecoded
-
-Copies FELIX Printers profiles into an OrcaSlicer resources/profiles folder.
-
-Before copying, this script also regenerates the "machine_model_list",
-"machine_list" and "process_list" arrays inside FELIX Printers.json by
-scanning the machine/ and process/ folders on disk and reading each
-profile's own "type" and "name" fields. Everything else in the manifest
-(name, version, description, force_update, etc.) is left exactly as-is,
-and the generated entries keep the same {"name", "sub_path"} shape that
-was there before - nothing extra is added.
-
-Usage:
-    python3 apply.py /path/to/OrcaSlicer/resources/profiles
-"""
-
 import json
 import shutil
 import sys
 from pathlib import Path
 
-VENDOR_FOLDER = "FELIX Printers"
-VENDOR_MANIFEST = "FELIX Printers.json"
+#---------------------------------------------------------------------
+# Change this to the path where system folder of the orca is located 
 ORCA_SYSTEM_CACHE_PATH = "/home/simon/.config/OrcaSlicer/system"
 
-# folder name -> "type" value used inside the profile jsons in that folder
+#---------------------------------------------------------------------
+
+
+#---------------------------------------------------------------------
+# Don`t cahange this
+
+VENDOR_FOLDER = "FELIX Printers"
+VENDOR_MANIFEST = "FELIX Printers.json"
+
 MACHINE_SUBFOLDER = "machine"
 PROCESS_SUBFOLDER = "process"
 FILAMENT_SUBFOLDER = "filament"
+#---------------------------------------------------------------------
+
 
 def scan_type_list(directory: Path, wanted_type: str, root: Path = None, sort: bool = True):
     if root is None:

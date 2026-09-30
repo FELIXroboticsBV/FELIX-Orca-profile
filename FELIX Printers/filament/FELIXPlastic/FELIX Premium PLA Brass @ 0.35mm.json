@@ -43,8 +43,8 @@
   "chamber_temperature": [
     "28.0"
   ],
-  "standby_temperature_delta": [
-    "120.0"
+  "idle_temperature": [
+    "120"
   ],
   "filament_retract_length": [
     "1.4"
@@ -52,7 +52,7 @@
   "filament_retract_speed": [
     "50.0"
   ],
-  "filament_deretraction_speed": [
+  "filament_retraction_speed": [
     "50.0"
   ],
   "filament_retract_restart_extra": [

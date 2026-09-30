@@ -43,8 +43,8 @@
   "chamber_temperature": [
     "28.0"
   ],
-  "standby_temperature_delta": [
-    "140.0"
+  "idle_temperature": [
+    "140"
   ],
   "filament_retract_length": [
     "2.0"
@@ -52,7 +52,7 @@
   "filament_retract_speed": [
     "50.0"
   ],
-  "filament_deretraction_speed": [
+  "filament_retraction_speed": [
     "50.0"
   ],
   "filament_retract_restart_extra": [
@@ -72,8 +72,5 @@
   ],
   "filament_density": [
     "1.1"
-  ],
-  "nozzle_hrc": [
-    "55"
   ]
 }

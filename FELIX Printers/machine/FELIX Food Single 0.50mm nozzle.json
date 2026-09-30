@@ -13,5 +13,11 @@
   ],
   "nozzle_diameter": [
     "0.5"
+  ],
+  "min_layer_height": [
+    "0.25"
+  ],
+  "max_layer_height": [
+    "0.4"
   ]
 }

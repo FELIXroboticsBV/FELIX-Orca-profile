@@ -22,6 +22,8 @@ def fmt_ratio_pct(v):
 def parse_list(raw):
     return [p.strip() for p in str(raw or "").split(",") if p.strip()]
 
+def fmt_int(v):
+    return str(int(round(float(v))))
 
 def is_true(v):
     if isinstance(v, bool):
@@ -60,10 +62,10 @@ def build_leaf(row):
         "textured_plate_temp": [bed_temp],
         "textured_plate_temp_initial_layer": [bed_temp],
         "chamber_temperature": [chamber_temp],
-        "standby_temperature_delta": [standby_temp],
+        "idle_temperature": [fmt_int(row["StandbyTemp_C"])],
         "filament_retract_length": [retract_dist],
         "filament_retract_speed": [retract_speed],
-        "filament_deretraction_speed": [retract_speed],
+        "filament_retraction_speed": [retract_speed],
         "filament_retract_restart_extra": [retract_extra],
         "filament_flow_ratio": [flow_ratio],
         "filament_max_volumetric_speed": [max_vol_speed],
@@ -71,9 +73,6 @@ def build_leaf(row):
         "fan_max_speed": [fan_speed],
         "filament_density": [density],
     }
-
-    if is_true(row["RequiresHardenedNozzle"]):
-        data["nozzle_hrc"] = ["55"]
 
     return data
 

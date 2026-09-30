@@ -48,6 +48,11 @@ def build_leaf(row):
         "extruder_type": extruder_type,
         "nozzle_diameter": nozzle_diameter,
     }
+
+    n = len(nozzle_diameter)
+    data["min_layer_height"] = [fmt_dia(row["MinLayer_mm"])] * n
+    data["max_layer_height"] = [fmt_dia(row["MaxLayer_mm"])] * n
+
     if is_double:
         data["extruder_offset"] = parse_offsets(row["ExtruderOffset"], 2)
 

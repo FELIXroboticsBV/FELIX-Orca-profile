@@ -16,6 +16,14 @@
     "0.7",
     "0.7"
   ],
+  "min_layer_height": [
+    "0.15",
+    "0.15"
+  ],
+  "max_layer_height": [
+    "0.5",
+    "0.5"
+  ],
   "extruder_offset": [
     "0x0",
     "0x0"

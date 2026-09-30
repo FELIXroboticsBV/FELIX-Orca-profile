@@ -1,3 +1,12 @@
+#------------------------------------
+# change this to where you profiles
+
+OUT_APPLY := ../profiles
+
+#-----------------------------------
+
+#========================================
+
 XLSX := FELIX_OrcaSlicer_DataSource.xlsx
 
 OUT_MACHINES  := FELIX Printers/machine
@@ -11,7 +20,7 @@ OUT_FOOD := FELIX Printers/filament/FELIXFood
 PROCESS_SHEET := Process_Data
 OUT_PROCESS := FELIX Printers/process
 
-OUT_APPLY := ../profiles
+#========================================
 
 .PHONY: build all
  

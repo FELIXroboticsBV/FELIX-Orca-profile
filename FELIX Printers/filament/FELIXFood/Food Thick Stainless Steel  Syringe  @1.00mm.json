@@ -9,15 +9,11 @@
     "FELIX Food Double 1.00mm nozzle",
     "FELIX Food Switch 1.00mm nozzle"
   ],
-  "syringe_type": "Stainless Steel",
-  "nozzle_diameter": [
-    "1.0"
-  ],
-  "filament_flow_ratio_raw": [
-    "1.02"
+  "filament_diameter": [
+    "25.4"
   ],
   "filament_flow_ratio": [
-    "1.1"
+    "1.02"
   ],
   "filament_retraction_length": [
     "2.0"

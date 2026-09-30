@@ -24,15 +24,14 @@ def parse_list(raw):
 
 
 def build_leaf(row):
-    nozzle_mm = fmt_num(row["Nozzle_mm"])
-    flow_ratio_raw = fmt_num(row["Flow ratio"])
+    flow_ratio = fmt_num(row["Flow ratio"])
     retract_dist = fmt_num(row["RetractionDist_mm"])
     retract_extra = fmt_num(row["ExtraRestartDist_mm"])
     retract_speed = fmt_num(row["RetractionSpeed_mms"])
     toolchange_retract = fmt_num(row["ToolchangeRetraction_mm"])
     toolchange_restart = fmt_num(row["ToolchangeRestart_mm"])
     wipe_dist = fmt_num(row["WipeDist_mm"])
-    flow_ratio_pct = fmt_ratio_pct(row["FlowRatio_pct"])
+    filament_dia = fmt_num(row["FilamentDiameter_mm"])
 
     data = {
         "type": "filament",
@@ -41,10 +40,8 @@ def build_leaf(row):
         "from": "system",
         "instantiation": "true",
         "compatible_printers": parse_list(row["Compatible printer names"]),
-        "syringe_type": row["SyringeType"],
-        "nozzle_diameter": [nozzle_mm],
-        "filament_flow_ratio_raw": [flow_ratio_raw],
-        "filament_flow_ratio": [flow_ratio_pct],
+        "filament_diameter": [filament_dia],
+        "filament_flow_ratio": [flow_ratio],
         "filament_retraction_length": [retract_dist],
         "filament_retract_restart_extra": [retract_extra],
         "filament_retraction_speed": [retract_speed],
@@ -55,7 +52,6 @@ def build_leaf(row):
     }
 
     return data
-
 
 def main():
     wb = openpyxl.load_workbook(XLSX_PATH, data_only=True)

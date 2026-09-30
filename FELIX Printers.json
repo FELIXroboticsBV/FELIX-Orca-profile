@@ -43,7 +43,7 @@
             "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
-            "name": "fdm_felix_food_double_common",
+            "name": "fdm_felix_food_switch_common",
             "sub_path": "machine/fdm_felix_food_double_common.json"
         },
         {
@@ -509,6 +509,10 @@
         {
             "name": "FELIX Wood Hardened Steel @ 0.50mm",
             "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.50mm.json"
+        },
+        {
+            "name": "FELIX Wood Hardened Steel @ 0.70mm",
+            "sub_path": "filament/FELIXPlastic/FELIX Wood Hardened Steel @ 0.70mm.json"
         },
         {
             "name": "Food Medium Plastic  Syringe  @0.50mm",
