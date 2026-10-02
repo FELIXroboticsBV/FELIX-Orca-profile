@@ -43,7 +43,7 @@
             "sub_path": "machine/fdm_felix_food_common.json"
         },
         {
-            "name": "fdm_felix_food_switch_common",
+            "name": "fdm_felix_food_double_common",
             "sub_path": "machine/fdm_felix_food_double_common.json"
         },
         {
