@@ -35,5 +35,6 @@
   ],
   "filament_wipe_distance": [
     "0.75"
-  ]
+  ],
+  "filament_vendor": "FELIX Printers"
 }

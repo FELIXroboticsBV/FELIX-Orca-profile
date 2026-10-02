@@ -47,6 +47,7 @@ def build_leaf(row):
         "single_extruder_multi_material": "0",
         "extruder_type": extruder_type,
         "nozzle_diameter": nozzle_diameter,
+
     }
 
     n = len(nozzle_diameter)

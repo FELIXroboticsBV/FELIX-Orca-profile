@@ -32,6 +32,8 @@ def build_leaf(row):
     toolchange_restart = fmt_num(row["ToolchangeRestart_mm"])
     wipe_dist = fmt_num(row["WipeDist_mm"])
     filament_dia = fmt_num(row["FilamentDiameter_mm"])
+    vendor = row["Vendor"] or "FELIX Printers"
+
 
     data = {
         "type": "filament",
@@ -49,6 +51,7 @@ def build_leaf(row):
         "filament_retract_length_toolchange": [toolchange_retract],
         "filament_retract_restart_extra_toolchange": [toolchange_restart],
         "filament_wipe_distance": [wipe_dist],
+        "filament_vendor": vendor ,
     }
 
     return data

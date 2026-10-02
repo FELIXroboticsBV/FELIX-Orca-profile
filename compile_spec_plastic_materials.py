@@ -43,6 +43,7 @@ def build_leaf(row):
     max_vol_speed = fmt_num(row["MaxVolumetricSpeed_mm3s"])
     fan_speed = fmt_num(row["FanSpeed_pct"])
     density = fmt_num(row["Density_gcc"])
+    vendor = [row["Vendor"]] or "FELIX Printers"
 
     data = {
         "type": "filament",
@@ -72,6 +73,7 @@ def build_leaf(row):
         "fan_min_speed": [fan_speed],
         "fan_max_speed": [fan_speed],
         "filament_density": [density],
+        "filament_vendor": [vendor] ,
     }
 
     return data
