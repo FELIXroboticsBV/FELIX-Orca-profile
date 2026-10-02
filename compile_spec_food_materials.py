@@ -32,7 +32,7 @@ def build_leaf(row):
     toolchange_restart = fmt_num(row["ToolchangeRestart_mm"])
     wipe_dist = fmt_num(row["WipeDist_mm"])
     filament_dia = fmt_num(row["FilamentDiameter_mm"])
-    vendor = row["Vendor"] or "FELIX Printers"
+    vendor = [row["Vendor"]] or "FELIX Printers"
 
 
     data = {

@@ -73,7 +73,7 @@ def build_leaf(row):
         "fan_min_speed": [fan_speed],
         "fan_max_speed": [fan_speed],
         "filament_density": [density],
-        "filament_vendor": [vendor] ,
+        "filament_vendor": vendor ,
     }
 
     return data
