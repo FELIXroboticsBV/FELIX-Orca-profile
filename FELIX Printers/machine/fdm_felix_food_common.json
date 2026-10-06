@@ -8,6 +8,8 @@
   "machine_max_speed_y": ["150", "150"],
   "machine_max_speed_z": ["10", "10"],
   "machine_max_speed_e": ["20", "20"],
+  "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n",
+  "use_relative_e_distances": "0",
   "gcode_flavor": "repetier",
   "printable_area": ["0x0", "250x0", "250x195", "0x195"],
   "printable_height": "150",
