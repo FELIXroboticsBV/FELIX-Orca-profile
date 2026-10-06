@@ -33,7 +33,7 @@ def build_leaf(row):
     wipe_dist = fmt_num(row["WipeDist_mm"])
     filament_dia = fmt_num(row["FilamentDiameter_mm"])
     vendor = [row["Vendor"]] or "FELIX Printers"
-
+    volumetric_speed = fmt_num(row["Volumetric speed"])
 
     data = {
         "type": "filament",
@@ -52,6 +52,7 @@ def build_leaf(row):
         "filament_retract_restart_extra_toolchange": [toolchange_restart],
         "filament_wipe_distance": [wipe_dist],
         "filament_vendor": vendor ,
+        "filament_max_volumetric_speed" : [volumetric_speed]
     }
 
     return data
