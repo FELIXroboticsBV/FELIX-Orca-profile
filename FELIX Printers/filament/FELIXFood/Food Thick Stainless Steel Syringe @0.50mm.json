@@ -41,5 +41,6 @@
   ],
   "filament_max_volumetric_speed": [
     "4.8"
-  ]
+  ],
+  "filament_id": "x"
 }

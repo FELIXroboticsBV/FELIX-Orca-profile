@@ -52,7 +52,8 @@ def build_leaf(row):
         "filament_retract_restart_extra_toolchange": [toolchange_restart],
         "filament_wipe_distance": [wipe_dist],
         "filament_vendor": vendor ,
-        "filament_max_volumetric_speed" : [volumetric_speed]
+        "filament_max_volumetric_speed" : [volumetric_speed],
+        "filament_id": "x",   # placeholder; generate-id replaces it with the real ID
     }
 
     return data
