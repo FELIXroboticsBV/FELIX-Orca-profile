@@ -20,6 +20,10 @@ def parse_offsets(raw, count):
         parts = (parts + ["0x0"] * count)[:count]
     return parts
 
+ 
+def split_list(raw):
+    return [s.strip() for s in str(raw or "").split(";") if s.strip()]
+
 
 def build_leaf(row):
     model = row["PrinterModel"]
@@ -27,6 +31,9 @@ def build_leaf(row):
     n1, n2 = row["Nozzle1_mm"], row["Nozzle2_mm"]
     variant = fmt_dia(row["PrinterVariant"])
     gflavor = row["GcodeFlavor"] or "repetier"
+
+    filament_profiles = split_list(row["DefaultFilamentProfile"])
+    default_process = row["DefaultPrintProfile"] or ""
 
     if is_double:
         nozzle_diameter = [fmt_dia(n1), fmt_dia(n2)]
@@ -47,6 +54,8 @@ def build_leaf(row):
         "single_extruder_multi_material": "0",
         "extruder_type": extruder_type,
         "nozzle_diameter": nozzle_diameter,
+        "default_print_profile" : default_process,
+        "default_filament_profile": filament_profiles,
 
     }
 

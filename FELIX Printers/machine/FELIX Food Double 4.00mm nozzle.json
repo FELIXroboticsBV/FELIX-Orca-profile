@@ -16,6 +16,10 @@
     "4.0",
     "4.0"
   ],
+  "default_print_profile": "FELIX Food Normal @ 4.00mm",
+  "default_filament_profile": [
+    "Food Medium Plastic Syringe @4.00mm"
+  ],
   "min_layer_height": [
     "2.0",
     "2.0"

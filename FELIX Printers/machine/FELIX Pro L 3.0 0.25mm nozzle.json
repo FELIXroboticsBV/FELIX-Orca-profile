@@ -16,6 +16,10 @@
     "0.25",
     "0.25"
   ],
+  "default_print_profile": "FELIX Plastic Normal @ 0.25mm",
+  "default_filament_profile": [
+    "FELIX Premium PLA Hardened Steel @ 0.25mm"
+  ],
   "min_layer_height": [
     "0.05",
     "0.05"
